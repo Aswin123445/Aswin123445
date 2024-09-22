@@ -1,7 +1,10 @@
+Passionate developer currently focused on projects involving Python and Django. Experienced in building engaging cross-platform mobile applications using Flutter.
+
 <h1>Welcome to Aswin Sandeep's codebase</h1>
 <h2>A Glimpse of Me 🕵️</h2>
 <ul>
-  <li><h4>Passionate <i>Flutter</i> developer with a focus on building engaging cross-platform mobile applications</h4></li>
+Passionate developer currently focused on projects involving Python and Django. Experienced in building engaging cross-platform mobile applications using Flutter.
+  <li><h4>Deep knowledge in Python.</h4></li>
   <li><h4>Leverage Java expertise to design and implement solutions for complex challenges.</h4></li>
   <img
   src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/productive-inf(1).gif" 
