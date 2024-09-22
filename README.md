@@ -22,8 +22,9 @@ Passionate developer currently focused on projects involving Python and Django. 
 <br><br><br>
 <ul>
 <h2> 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:</h2>
-  <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/github.png" alt="photo" align="left" height="20px" width="95px"><br><br>
 
+  <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/django-logo-positive.png" alt="photo" align="left" height="20px" width="95px"><br><br>
+<img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/github.png" alt="photo" align="left" height="20px" width="95px"><br><br>
 <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/java.png" alt="photo" align="left" height="20px" width="95px">
 <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/c.png" alt="photo" align="left" height="20px" width="95px">
 <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/cpp.png" alt="photo" align="left" height="20px" width="95px">
