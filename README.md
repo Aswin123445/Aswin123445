@@ -28,6 +28,13 @@
   <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/ut.png" alt="YouTube" height="40px" width="120px">
 </a>
 
+<h2>💡 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin123445&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin123445&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
+
 <h2> 💻 Tech Stack:</h2>
 <ul>
   <li>
