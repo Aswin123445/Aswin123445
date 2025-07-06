@@ -9,7 +9,7 @@
   <li><h4>Deep knowledge in Python.</h4></li>
   <li><h4>Leverage Java expertise to design and implement solutions for complex challenges.</h4></li>
   
-  <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/productive-inf(1).gif" alt="gif" align="right" height="270px" />
+  <img src="https://github.com/Aswin123445/Aswin123445/blob/main/asset/productive-inf(1).gif" alt="gif" align="right" height="270px" width="400px" />
   
   <li><h4>Integrating <i>Firebase</i> for robust frontend-to-backend communication within the application.</h4></li>
   <li><h4>Possess a deep understanding of C and C++ programming principles and best practices.</h4></li>      
@@ -31,8 +31,8 @@
 <h2>💡 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin123445&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin123445&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin123445&show_icons=true&theme=radical" alt="GitHub Stats" height="180px width="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin123445&layout=compact&theme=radical" alt="Top Languages" height="180px width="250px" />
 </p>
 
 <h2> 💻 Tech Stack:</h2>
