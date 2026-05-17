@@ -64,7 +64,7 @@ Feel free to reach out — whether it's for collaboration, tech discussions, or 
 <br/>
 
 ---
-## 🏗️ Built — CivicEdge
+## 🏗️ Built — CivicEdge &nbsp; [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswin123445/CivicEdge)
 
 CivicEdge is a civic engagement platform designed to improve collaboration between citizens, volunteers, and administrators through scalable digital systems.
 
@@ -82,7 +82,7 @@ The platform includes:
 Django • DRF • React • PostgreSQL • Docker • Redis • Celery
 ```
 
-## 🏗️ Built — Job Diary
+## 🏗️ Built — Job Diary &nbsp; [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswin123445/JobDiary)
 
 Job Diary is an AI-powered job application tracking platform designed to help job seekers organize applications, company research, interview preparation, and follow-ups efficiently.
 
@@ -101,12 +101,27 @@ The platform includes:
 FastAPI • SQLModel • PostgreSQL • Authlib • Docker • Celery • Redis • Groq API
 ```
 
+[![GitHub](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswin123445?tab=repositories)
+
+---
+
+### ⚙️ Engineering Practices
+
+- Dockerized development workflow
+- Async backend architectures
+- RESTful API design
+- Background task processing with Celery
+- Modular & scalable project structures
+
+---
+
 ## 🌱 Currently Exploring
 
-- Semantic understanding with embeddings and vector databases
-- Scalable microservice architectures with FastAPI
-- Retrieval-Augmented Generation (RAG) patterns
-- Civic tech at the intersection of AI
+- Embedding pipelines & semantic retrieval systems
+- RAG architectures and vector database workflows
+- Async backend patterns with FastAPI
+- AI-assisted backend automation
+- Scalable system design for real-world applications
 
 ---
 
@@ -130,19 +145,6 @@ FastAPI • SQLModel • PostgreSQL • Authlib • Docker • Celery • Redis 
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-Building scalable backend systems, AI-powered applications, and impactful digital platforms.
-
-Open to collaborations, engineering discussions, and innovative project ideas.
-
-<br/>
-
-<a href="https://lnkd.in/gsGiJfcS">
-  <img 
-    src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-  />
-</a>
+Building scalable software systems with a focus on backend engineering, AI workflows, and practical problem solving.
 
 </div>
